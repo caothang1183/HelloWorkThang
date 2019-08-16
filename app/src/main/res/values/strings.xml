@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NNCTHANG App</string>
+    <string name="nav_drawer_open">Open Navigation</string>
+    <string name="nav_drawer_close">Close Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_note">Note</string>
+    <string name="title_currency">Currency</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_game">Game</string>
+    <string name="title_comunicate">Comunicate</string>
+    <string name="title_share">Share</string>
+    <string name="title_send">Send Message</string>
+    <string name="note_title">Title</string>
+    <string name="note_description">Description</string>
+    <string name="note_date">11/11/1990</string>
+    <string name="note_add">Add Note</string>
+    <string name="note_edit">Edit Note</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="title_header_menu_image_description">User Image</string>
+    <string name="title_header_menu_user">Administrator</string>
+    <string name="title_header_menu_email">thangncn@hitachiconsulting.com</string>
+    <string name="dialog_delete_title">Warning</string>
+
+</resources>

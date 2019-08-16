@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black"
+            android:title="@string/title_home" />
+
+        <item
+            android:id="@+id/nav_note"
+            android:icon="@drawable/ic_note"
+            android:title="@string/title_note" />
+
+        <item
+            android:id="@+id/nav_currency"
+            android:icon="@drawable/ic_currency"
+            android:title="@string/title_currency" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account_circle"
+            android:title="@string/title_profile" />
+
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/ic_game_controller"
+            android:title="@string/title_game" />
+    </group>
+
+    <item android:title="@string/title_comunicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/title_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send_message"
+                android:title="@string/title_send" />
+        </menu>
+    </item>
+</menu>
